@@ -1,0 +1,2 @@
+Script executed from: C:\Users\jjf3\Projects\rewindos-christmas-episodes\src
+Script path: C:\Users\jjf3\Projects\rewindos-christmas-episodes\src\christmas_year_count.py
