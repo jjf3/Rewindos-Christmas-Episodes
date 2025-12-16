@@ -16,3 +16,5 @@ Using the Wikipedia list of U.S. Christmas television episodes as a starting dat
 
 ## Notes / Disclaimer
 This dataset is derived from a community-edited Wikipedia page and uses simple heuristics to filter entries. Results should be treated as a directional indicator, not a definitive census.
+
+Keywords: cultural analytics, TV history, holiday programming, RewindOS, media data journalism
